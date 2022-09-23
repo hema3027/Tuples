@@ -1,0 +1,4 @@
+#python
+a=('c','y','f','u','n','o')
+b=a[::-1]
+print(b)
